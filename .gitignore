@@ -1,3 +1,5 @@
 .vscode/
 tutorial1/target
 tutorial2/target
+tutorial1/target/.rustc_info.json
+tutorial2/target/.rustc_info.json
